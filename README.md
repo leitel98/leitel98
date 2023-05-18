@@ -9,11 +9,9 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/leitel/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/leitel/#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/leitel/" rel="nofollow"><img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lucifeitel/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lucifeitel/#gh-dark-mode-only)
+<a href="https://www.instagram.com/lucifeitel/" rel="nofollow"><img align="left" alt="instagram" width="26px" src="https://camo.githubusercontent.com/11655bdfbaf5e5e2b7485fb466c5dc4fe917451e6e484ac361afab38d7ffae64/68747470733a2f2f6a6f686e686f776172642e6f6e2e63612f7065746572626f726f7567682f77702d636f6e74656e742f75706c6f6164732f73697465732f31322f323032312f30332f696e7374616772616d2d6c6f676f2d7376672d766563746f722d666f722d7072696e742e737667" data-canonical-src="https://johnhoward.on.ca/peterborough/wp-content/uploads/sites/12/2021/03/instagram-logo-svg-vector-for-print.svg" style="max-width: 100%;"></a>
 
 <br />
 
