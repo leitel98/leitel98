@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas👋 
 
-## I'm a Bartender, Agronomyst and Developer
+## I'm an Agronomyst, Bartender, Martial artist and Developer!
 
 - 🌱 I’m currently learning Flutter and working as a junior
 - 👯 I’m looking to collaborate with other developers
