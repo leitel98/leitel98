@@ -1,7 +1,6 @@
-### Hi there, I'm Lucas👋 
+# <p align="center">Hi there, I'm Lucas👋</p> 
 
 ## I'm an Agronomyst, Bartender, Martial artist and Software Developer!
-
 - 🌱 I’m currently learning Flutter and working as a Junior Frontend Developer.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023 Goals: Master Next.js, Typescript and Graphql.
