@@ -30,4 +30,5 @@
 <br />
 <br />
 
-<img src="https://camo.githubusercontent.com/a2a221ca8a9845ed15265337c3e999a5c2f1c4f7b5877f800644bd202e5855c0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d695847454e2673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=leitel98;show_icons=true&amp;count_private=true&amp;hide_border=true" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=leitel98&show_icons=true&count_private=true&hide_border=true" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=leitel98&show_icons=true&count_private=true&hide_border=true" style="max-width: 100%;">
+
