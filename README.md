@@ -18,17 +18,46 @@
 
 ### My Skillset:
 
-<a href="https://www.javascript.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/7a2b6137fa6818b1c85f86347a6b4a75ee52681d4a190c506df972e3c5459980/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" style="max-width: 100%;"></a>
-<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667" alt="TypeScript" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" style="max-width: 100%;"></a>
-<a href="https://nextjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/3b7cd4f410391d1f43e0b4545192c5a403432194cd256be40bf25e74519248f2/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6578746a732e706e67" alt="NextJS" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/nextjs.png" style="max-width: 100%;"></a>
-<a href="https://git-scm.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667" alt="Git" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" style="max-width: 100%;"></a>
-<a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 100%;"></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" rel="nofollow"><img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;"></a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"><img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 100%;"></a>
-<a href="https://www.tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b8b2313d935df145f0f41f6f7169748c37cf6a2a993c40e4a1e7f2f31fbc73df/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7461696c77696e646373732e737667" alt="Tailwind CSS" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="Node.js" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7eca8dd16b43995bf372b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d6f6e676f64622d6f726967696e616c2d776f72646d61726b2e737667" alt="MongoDB" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" style="max-width: 100%;"></a>
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/ef8a5aaa11f861e3692439d030c83a18d6d5ebc387d6e74ca4bba728aaeac7ad/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="MySQL" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" style="max-width: 100%;"></a>
+
+<table><tr><td valign="top" width="50%">
+
+### <p align="center">Frontend</p>
+<br />
+<div align="center"  style="background-color: white;">
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### <p align="center">Backend</p>
+<br />
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>
+
+
+</td></tr></table>  
+
 
 <br />
 <br />
