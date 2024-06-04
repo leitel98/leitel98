@@ -3,8 +3,8 @@
 ## I'm an Agronomyst, Bartender, Martial artist and Software Developer!
 - 🌱 I’m currently learning Flutter and working as a Software Engineer.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Master Next.js, Typescript and Graphql.
-- ⚡ Fun fact: I'm a lifetime gamer!
+- 🥅 2024 Goals: Master Next.js, Typescript and learn new languages and frameworks.
+- ⚡ Fun fact: I'm a lifetime gamer and martial artist!
 
 <br />
 
